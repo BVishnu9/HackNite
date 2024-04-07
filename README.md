@@ -45,7 +45,7 @@ To analyse the auction data collected from the official ipl website by using var
 We could have used Seaborn to visualise data and explore trends from past years' statistics.
 
 
-##
+## Demo video 
 
-Insert gif or link to demo
+https://youtu.be/LijECu7Sh7U
 
